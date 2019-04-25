@@ -2,7 +2,7 @@
 """
 Created on Mon Sep 10 19:15:31 2018
 
-@author: jajja
+@author: Gowshalini.R
 """
 #	S.M.A.M. Manchanayake (madhawa242@gmail.com)
 #	Gowshalini Rajalingam (gowshalinirajalingam@gmail.com)
